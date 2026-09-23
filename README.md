@@ -1,3 +1,4 @@
+
 # Hi, I'm King001 👋
 ### Android Module & Web Developer | Professional Game Boosting Services
 
@@ -24,7 +25,7 @@ Welcome to my GitHub profile! I am an independent developer focusing on Android 
 ---
 
 ## 🚀 Active Projects & Business
-- 🌐 Visit my official business platform: **[King Joki Web](https://kingjoki.netlify.app/)**
+- 🌐 Visit my official business platform: **[King Joki Web](https://netlify.app)**
 - 📱 Project Workspace: Developing Android applications, automated scripts, and custom tools utilizing **Termux** environment.
 
 ---
@@ -32,7 +33,8 @@ Welcome to my GitHub profile! I am an independent developer focusing on Android 
 ## 📞 Connect with Me
 Interested in working together or hiring my services? Feel free to reach out directly:
 
-[![WhatsApp](https://shields.io)](https://wa.me/6283853144462)
-[![Website](https://shields.io)](https://kingjoki.netlify.app/)
+* 📱 **WhatsApp:** [Hubungi via WhatsApp (Chat Only)](https://wa.me)
+* 🌐 **Website:** [Kunjungi King Joki Web](https://netlify.app)
 
+---
 *Driven by code, optimized for performance.* 🔥
